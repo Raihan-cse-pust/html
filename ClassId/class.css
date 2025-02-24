@@ -1,0 +1,16 @@
+div{
+    background-color: aqua;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+.two{
+    background-color: green;
+    color: white;
+}
+.three{
+    background-color: red;
+    
+}
+#four{
+    background-color: blue;
+}
