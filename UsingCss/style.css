@@ -1,4 +1,9 @@
 h1 {
   /* font-size: 20px; */
   color: blue;
+  text-align: center;
+}
+p{
+  background-color: tomato;
+  padding:20px;
 }
